@@ -14,7 +14,7 @@ To get started is very simple.
 
 ### Prerequisites
 
-List any software or libraries needed to run the project:
+Software needed:
 * Python 3
 * A package manager (pip preferred)
 
